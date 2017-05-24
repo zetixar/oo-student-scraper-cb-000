@@ -1,7 +1,5 @@
 #!/usr/bin/env ruby
-require 'pry'
 require_relative "../lib/scraper.rb"
-binding.pry
 require_relative "../lib/student.rb"
 require 'nokogiri'
 require 'colorize'
